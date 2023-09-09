@@ -10,11 +10,14 @@ A list of random but hopefully awesome references. Some read, some put here for 
   - [Censorship Resistance](#censorship-resistance)
   - [Data Availability](#data-availability) 
   - [Fee Design](#fee-design)
-  - [Upgrades](#upgrades)
+  - [MEV](#mev)
+  - [Rollups](#rollups)
   - [Smart contracts](#smart-contracts)
     - [Huff](#huff)
     - [Solidity](#solidity)
     - [Vyper](#vyper)
+  - [Upgrades](#upgrades)
+- [Cryptography](#cryptography)
 - [Data Structures](#data-structures)
 
 ---
