@@ -23,10 +23,12 @@ A list of random but hopefully awesome references. Some read, some put here for 
 Contains blockchain topics, mostly from the Ethereum sphere.
 
 ### Censorship Resistance
+- 📃 [Censorship... wat do?](https://joncharbonneau.substack.com/p/censorship-wat-do)
 - 📃 [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/s3JToeApTx6CKLJt8AbhFQ#State-of-research-increasing-censorship-resistance-of-transactions-under-proposerbuilder-separation-PBS)
 - 📃 [No free lunch - a new inclusion list design](https://ethresear.ch/t/no-free-lunch-a-new-inclusion-list-design/16389)
 - 📃 [PBS censorship-resistance alternatives](https://notes.ethereum.org/@fradamt/H1TsYRfJc)
 - 📃 [Fun and games with inclusion lists](https://ethresear.ch/t/fun-and-games-with-inclusion-lists/16557)
+- 📃 [Encrypted Mempools](https://joncharbonneau.substack.com/p/encrypted-mempools)
 
 ### Data Availability
 - 📃 [EIP-4844](https://eips.ethereum.org/EIPS/eip-4844)
@@ -38,10 +40,16 @@ Contains blockchain topics, mostly from the Ethereum sphere.
 - 📒 [Transaction Fee Mechanism Design with Active Block Producers](https://arxiv.org/abs/2307.01686)
 - 📃 [Exponential EIP-1559](https://dankradfeist.de/ethereum/2022/03/16/exponential-eip1559.html)
 
+### MEV
+- 📃 [MEV List](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
+
 ### Rollups
 - 📃 [Rollups Are L1s (& L2s) a.k.a. How Rollups *Actually Actually Actually* Work](https://dba.mirror.xyz/LYUb_Y2huJhNUw_z8ltqui2d6KY8Fc3t_cnSE9rDL_o)
 - 📃 [The Rollup Multiverse](https://dba.mirror.xyz/hyRKK4_PDrO2FKpF6eIRvnq8sA_Mx7dXtQf_MWzSWTU)
 - 📃 [Rollups, Rigor, and Reality](https://kelvinfichter.com/pages/thoughts/rrr/)
+- 📃 [Rollups are Real -- Rollup Economics 2.0](https://davidecrapis.notion.site/Rollups-are-Real-Rollup-Economics-2-0-2516079f62a745b598133a101ba5a3de)
+- 📺 [How to think about PBS on L2](https://www.youtube.com/live/WYH7n4M016A?si=3h26RqDW-wEDgoWN&t=21963)
+- 📺 [A Better Mental Model for Rollups, Plasma, and Validating Bridges](https://www.youtube.com/watch?v=Z1dDVW7QTTM)
 
 ### Smart Contracts
 
