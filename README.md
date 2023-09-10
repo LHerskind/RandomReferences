@@ -86,7 +86,7 @@ Contains blockchain topics, mostly from the Ethereum sphere.
 - 📺 [Tim Beiko - Ethereum Protocol Upgrades: Past, Present & Future](https://www.youtube.com/watch?v=HoclxIBR2EM)
 
 ### Vulnerabilities
-- 📃 [](https://github.com/ethereum/public-disclosures/)
+- 📃 [Ethereum public disclosures](https://github.com/ethereum/public-disclosures/)
 
 ## Cryptography
 - 📃 [KZG polynomial commitments](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)
