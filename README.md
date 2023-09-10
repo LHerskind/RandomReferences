@@ -10,13 +10,16 @@ A list of random but hopefully awesome references. Some read, some put here for 
   - [Censorship Resistance](#censorship-resistance)
   - [Data Analysis](#data-analysis)
   - [Data Availability](#data-availability) 
+  - [Execution Layer](#execution-layer)
   - [Fee Design](#fee-design)
   - [MEV](#mev)
   - [Rollups](#rollups)
   - [Smart contracts](#smart-contracts)
     - [Huff](#huff)
     - [Solidity](#solidity)
+    - [Security](#security)
     - [Vyper](#vyper)
+  - [Thought pieces](#thought-pieces)
   - [Upgrades](#upgrades)
   - [Vulnerabilities](#vulnerabilities)
 - [Cryptography](#cryptography)
@@ -49,6 +52,9 @@ Contains blockchain topics, mostly from the Ethereum sphere.
 - 📃 [Dankrads notes on Danksharding](https://notes.ethereum.org/@dankrad/new_sharding)
 - 📃 [An explanation of the sharding + DAS proposal](https://hackmd.io/@vbuterin/sharding_proposal)
 
+### Execution Layer
+- [Execeution Specs](https://ethereum.github.io/execution-specs/)
+
 ### Fee Design
 - 📃 [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559)
 - 📃 [Has anyone checked on EIP-1559 recently?](https://prestwich.substack.com/p/has-anyone-checked-on-eip-1559-recently)
@@ -77,10 +83,21 @@ Contains blockchain topics, mostly from the Ethereum sphere.
 - 🛠️ [Solidity docs](https://soliditylang.org/)
 - 🛠️ [Foundry book](https://book.getfoundry.sh/)
 - 📃 [Solidity considered harmful](https://makemake.site/post/solidity-considered-harmful)
+- 📃 [Solidity Data Representation](https://ethdebug.github.io/solidity-data-representation/)
+
+#### Security
+- 📃 [Nascent Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit)
+- 🛠️ [Pyrometer](https://github.com/nascentxyz/pyrometer)
+- 🛠️ [Slither](https://github.com/crytic/slither)
+- 🛠️ [Echidna](https://github.com/crytic/echidna)
+- 📃 [Trail of Bits building secury contracts](https://github.com/crytic/building-secure-contracts)
 
 #### Vyper
 - 🛠️ [Vyperlang docs](https://docs.vyperlang.org/en/stable/)
 - 📃 [How 🐍 compiles into bytecode](https://hackmd.io/@pcaversaccio/how-vyper-compiles-into-bytecode)
+
+### Thought pieces
+- 📃 [Blockchains are for settlement; or using the right tool for the job](https://makemake.site/post/blockchain-bad)
 
 ### Upgrades
 - 📺 [Tim Beiko - Ethereum Protocol Upgrades: Past, Present & Future](https://www.youtube.com/watch?v=HoclxIBR2EM)
