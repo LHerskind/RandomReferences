@@ -8,6 +8,7 @@ A list of random but hopefully awesome references. Some read, some put here for 
 
 - [Blockchain](#blockchain)
   - [Censorship Resistance](#censorship-resistance)
+  - [Data Analysis](#data-analysis)
   - [Data Availability](#data-availability) 
   - [Fee Design](#fee-design)
   - [MEV](#mev)
@@ -17,8 +18,11 @@ A list of random but hopefully awesome references. Some read, some put here for 
     - [Solidity](#solidity)
     - [Vyper](#vyper)
   - [Upgrades](#upgrades)
+  - [Vulnerabilities](#vulnerabilities)
 - [Cryptography](#cryptography)
 - [Data Structures](#data-structures)
+  - [Trees](#trees)
+- [Misc](#misc)
 
 ---
 
@@ -33,9 +37,17 @@ Contains blockchain topics, mostly from the Ethereum sphere.
 - 📃 [Fun and games with inclusion lists](https://ethresear.ch/t/fun-and-games-with-inclusion-lists/16557)
 - 📃 [Encrypted Mempools](https://joncharbonneau.substack.com/p/encrypted-mempools)
 
+### Data Analysis
+- 🛠️ [Cryo](https://github.com/paradigmxyz/cryo)
+- 🛠️ [Cryogen](https://github.com/banteg/cryogen)
+- 📃 [DefiLlama](https://defillama.com/)
+
 ### Data Availability
 - 📃 [EIP-4844](https://eips.ethereum.org/EIPS/eip-4844)
 - 📃 [PeerDAS – a simpler DAS approach using battle-tested p2p components](https://ethresear.ch/t/peerdas-a-simpler-das-approach-using-battle-tested-p2p-components/16541)
+- 📃 [Danksharding](https://ethereum.org/en/roadmap/danksharding/)
+- 📃 [Dankrads notes on Danksharding](https://notes.ethereum.org/@dankrad/new_sharding)
+- 📃 [An explanation of the sharding + DAS proposal](https://hackmd.io/@vbuterin/sharding_proposal)
 
 ### Fee Design
 - 📃 [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559)
@@ -47,28 +59,34 @@ Contains blockchain topics, mostly from the Ethereum sphere.
 - 📃 [MEV List](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
 
 ### Rollups
+- 📃 [Rollup Centric Ethereum Roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
 - 📃 [Rollups Are L1s (& L2s) a.k.a. How Rollups *Actually Actually Actually* Work](https://dba.mirror.xyz/LYUb_Y2huJhNUw_z8ltqui2d6KY8Fc3t_cnSE9rDL_o)
 - 📃 [The Rollup Multiverse](https://dba.mirror.xyz/hyRKK4_PDrO2FKpF6eIRvnq8sA_Mx7dXtQf_MWzSWTU)
 - 📃 [Rollups, Rigor, and Reality](https://kelvinfichter.com/pages/thoughts/rrr/)
 - 📃 [Rollups are Real -- Rollup Economics 2.0](https://davidecrapis.notion.site/Rollups-are-Real-Rollup-Economics-2-0-2516079f62a745b598133a101ba5a3de)
 - 📺 [How to think about PBS on L2](https://www.youtube.com/live/WYH7n4M016A?si=3h26RqDW-wEDgoWN&t=21963)
 - 📺 [A Better Mental Model for Rollups, Plasma, and Validating Bridges](https://www.youtube.com/watch?v=Z1dDVW7QTTM)
+- 📃 [Rollups as Sovereign Chains](https://blog.celestia.org/sovereign-rollup-chains)
 
 ### Smart Contracts
 
 #### Huff
-- 📃 [Huff docs](https://docs.huff.sh/)
+- 🛠️ [Huff docs](https://docs.huff.sh/)
 
 #### Solidity 
-- 📃 [Solidity docs](https://soliditylang.org/)
-- 📃 [Foundry book](https://book.getfoundry.sh/)
+- 🛠️ [Solidity docs](https://soliditylang.org/)
+- 🛠️ [Foundry book](https://book.getfoundry.sh/)
+- 📃 [Solidity considered harmful](https://makemake.site/post/solidity-considered-harmful)
 
 #### Vyper
-- 📃 [Vyperlang docs](https://docs.vyperlang.org/en/stable/)
+- 🛠️ [Vyperlang docs](https://docs.vyperlang.org/en/stable/)
 - 📃 [How 🐍 compiles into bytecode](https://hackmd.io/@pcaversaccio/how-vyper-compiles-into-bytecode)
 
 ### Upgrades
 - 📺 [Tim Beiko - Ethereum Protocol Upgrades: Past, Present & Future](https://www.youtube.com/watch?v=HoclxIBR2EM)
+
+### Vulnerabilities
+- 📃 [](https://github.com/ethereum/public-disclosures/)
 
 ## Cryptography
 - 📃 [KZG polynomial commitments](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)
