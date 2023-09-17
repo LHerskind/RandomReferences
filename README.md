@@ -95,6 +95,8 @@ Contains blockchain topics, mostly from the Ethereum sphere.
 #### Vyper
 - 🛠️ [Vyperlang docs](https://docs.vyperlang.org/en/stable/)
 - 📃 [How 🐍 compiles into bytecode](https://hackmd.io/@pcaversaccio/how-vyper-compiles-into-bytecode)
+- 📃 [The Vyper compiler](https://jtriley.substack.com/p/the-vyper-compiler)
+- 📃 [Vyper deepdive](https://github.com/jtriley-eth/vy-deepdive)
 
 ### Thought pieces
 - 📃 [Blockchains are for settlement; or using the right tool for the job](https://makemake.site/post/blockchain-bad)
