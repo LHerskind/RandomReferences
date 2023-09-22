@@ -53,7 +53,7 @@ Contains blockchain topics, mostly from the Ethereum sphere.
 - 📃 [An explanation of the sharding + DAS proposal](https://hackmd.io/@vbuterin/sharding_proposal)
 
 ### Execution Layer
-- [Execeution Specs](https://ethereum.github.io/execution-specs/)
+- 📃 [Execeution Specs](https://ethereum.github.io/execution-specs/)
 
 ### Fee Design
 - 📃 [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559)
@@ -111,6 +111,7 @@ Contains blockchain topics, mostly from the Ethereum sphere.
 - 📃 [KZG polynomial commitments](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)
 - 📃 [SUMCHECK Quickie](https://dankradfeist.de/ethereum/2023/08/08/sumcheck-quickie.html)
 - 📚 [Proofs, Arguments, and Zero Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+- 📃 [Delendum knowledge-base](https://kb.delendum.xyz/)
 
 ## Data Structures
 
