@@ -120,4 +120,4 @@ Contains blockchain topics, mostly from the Ethereum sphere.
 
 ## Misc
 - 📃 [The Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
-
+- 📃 [Awesome blockchain rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
